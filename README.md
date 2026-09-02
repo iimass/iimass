@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Sami
 
-<!--
-**iimass/iimass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science student · Université Évry Paris-Saclay**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About
+
+Computer science student with a strong interest in software development
+and web technologies.
+
+I work with **C**, **Java** and **Python** on the software side, and with
+**JavaScript**, **HTML** and **CSS** on the web side. I learn best by
+building — I take a concept, implement it, break it, and rebuild it until
+it makes sense.
+
+Everything I work on ends up here: the finished projects and the
+work in progress.
+
+---
+
+## ⚡ Quick look
+
+| | |
+|---|---|
+| 🎓 **Studying** | Computer Science at Université Évry Paris-Saclay |
+| 💻 **Working with** | C · Java · Python · JavaScript · HTML/CSS |
+| 🌱 **Learning** | Web development and software fundamentals |
+| 🎯 **Approach** | Build, break, understand, repeat |
+
+---

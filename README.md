@@ -14,9 +14,6 @@ I work with **C**, **Java** and **Python** on the software side, and with
 building — I take a concept, implement it, break it, and rebuild it until
 it makes sense.
 
-Everything I work on ends up here: the finished projects and the
-work in progress.
-
 ---
 
 ## ⚡ Quick look

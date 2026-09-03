@@ -6,13 +6,12 @@
 
 ## 💡 About
 
-Computer science student with a strong interest in software development
-and web technologies.
+I learn by building. I take a concept, implement it, break it, and rebuild it
+until it makes sense — which is usually somewhere around the third attempt.
 
-I work with **C**, **Java** and **Python** on the software side, and with
-**JavaScript**, **HTML** and **CSS** on the web side. I learn best by
-building — I take a concept, implement it, break it, and rebuild it until
-it makes sense.
+My interest sits between software fundamentals and web development: I like
+understanding what happens close to the machine, and I like seeing it turn
+into something people can actually use.
 
 ---
 
@@ -22,8 +21,6 @@ it makes sense.
 
 💻 **Working with** : C · Java · Python · JavaScript · HTML/CSS
 
-🌱 **Learning** : Web development and software fundamentals
+🌱 **Currently learning** : Web development and software fundamentals
 
 🎯 **Approach** : Build, break, understand, repeat
-
----

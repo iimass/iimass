@@ -19,8 +19,11 @@ it makes sense.
 ## ⚡ Quick look
 
 🎓 **Studying** : Computer Science at Université Évry Paris-Saclay
+
 💻 **Working with** : C · Java · Python · JavaScript · HTML/CSS
+
 🌱 **Learning** : Web development and software fundamentals
+
 🎯 **Approach** : Build, break, understand, repeat
 
 ---
